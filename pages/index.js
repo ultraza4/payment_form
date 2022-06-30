@@ -11,7 +11,7 @@ export default function Home() {
 
 			<main className={styles.main}>
         <Toolbar>
-          <h1>SENDING FORM </h1>
+          <h1>PAYMENT FORM </h1>
         </Toolbar>
 				<FormComponent />
 			</main>
